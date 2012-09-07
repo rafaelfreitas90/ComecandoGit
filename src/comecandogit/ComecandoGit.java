@@ -11,6 +11,10 @@ package comecandogit;
 public class ComecandoGit {
 
     public static void main(String[] args) {
+        String nome = "Rafael";
+
         System.out.println("Imprimindooooo");
+
+
     }
 }
